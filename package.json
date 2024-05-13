@@ -1,0 +1,16 @@
+{
+  "name": "my_push_up_counter",
+  "version": "1.0.0",
+  "description": "A push up counter created using MoveNet.js",
+  "main": "webcam.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
